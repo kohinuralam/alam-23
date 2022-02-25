@@ -1,0 +1,250 @@
+/*for-tablet*/
+ @media screen and (min-width: 767px) and (max-width: 991px) {
+	 
+  /*header-start*/
+   .menu-area ul {
+      display: none;
+    }
+    /*header-end*/
+
+    .contact-item p {
+      font-size: 17px;
+    }
+
+    .footer-icon ul li {
+      padding: 89px 2px 0;
+    }
+
+
+
+
+
+
+  
+
+
+  
+
+
+}
+
+
+  /*for-mobil*/
+   @media screen and (max-width: 767px) {
+
+      /*header-start*/ 
+       .menu-area ul {
+         display: none;
+         }
+
+      #active {
+        padding: 2px 13px;
+        border-radius: 20px;
+        font-weight: normal;
+        line-height: 15px;
+        font-size: 11px;
+
+        }
+      /*header-end*/
+
+      /*meet-group-start*/
+       .meet-group-area {
+         padding-bottom: 60px;
+       }
+
+        .meet-content h2 {
+         font-size: 28px;
+         margin-top: 30px;
+
+        }
+        /*meet-group-end*/
+
+        /*concept-area-start*/
+        .concept-area {
+          padding-bottom: 60px;
+          }
+        .concept-content h4 {
+          font-size: 20px;
+          margin-top: 50px;
+
+          }
+
+          .concept-content h2 {
+            font-size: 48px;
+          }
+
+          .concept-images img {
+            margin-top: 68px;
+          }
+         /*concept-area-end*/
+
+         /*solution-area-start*/
+         .solution-area {
+            padding: 0 0 50px 0;
+            }
+
+         .solution-images h4 {
+            font-size: 18px;
+            margin: 52px 0 0 0;
+          }
+
+          .solution-content h5 {
+            font-size: 20px;
+            margin: 53px 0 5px 0;
+            }
+
+          .solution-images h2 {
+              font-size: 48px;
+            }
+
+          /*solution-area-end*/
+
+          /*data-area-start*/ 
+          .data-area {
+          background: tan;
+          padding: 0 0 55px 0;
+          }
+
+          .data-images img {
+            margin: 68px 0 0 0;
+            }
+
+          .data-content h4 {
+            font-size: 19px;
+            margin: 47px 0 0 0;
+            }
+
+            .data-content h2 {
+              font-size: 48px;
+            }
+            /*data-area-end*/ 
+
+            /*advantage-area-start*/
+            .advantage-area {
+                padding: 0 0 60px 0;
+              }
+
+              .advantage-title h4 {
+                font-size: 18px;
+                padding: 55px 0 0 0;
+              }
+
+              .advantage-title h2 {
+                font-size: 46px;
+              
+              }
+
+              .advantage-item p br {
+                display: none;
+              }
+            /*advantage-area-start*/ 
+
+            /*team-area-start*/
+            .team-area {
+                padding: 0 0 46px 0;
+              } 
+            .team-title h3 {
+                font-size: 19px;
+                padding: 59px 0 0 0;
+              }
+
+              .team-title h2 {
+                font-size: 48px;
+                
+              }
+
+              .team-title p {
+                font-size: 19px;
+                
+              }
+
+              .team-title p br {
+                display: none; 
+              }
+
+
+              .team-item h2 {
+                font-size: 40px;
+                
+              }
+
+              .team-item h4 {
+                font-size: 19px;
+                
+              }
+
+              .team-item p {
+                font-size: 19px;
+               
+              }
+
+            /*team-area-end*/ 
+
+            /*contact-area-start*/
+            .contact-area {
+              padding: 0 0 75px 0;
+            }
+
+            .contact-title h3 {
+              font-size: 19px;
+              padding: 60px 0 0 0;
+            }
+
+            .contact-title h2 {
+              font-size: 48px;
+            }
+
+            .contact-item h4 {
+              font-size: 20px;
+
+              
+            }
+
+            .contact-item p {
+              font-size: 18px;
+
+             }
+
+          .footer-icon ul li {
+              padding: 50px 1px 0 0;
+            }
+
+            .footer-content p {
+              padding: 50px 0 0 0;
+            }
+
+            .footer-area {
+              background: #000000;
+              padding: 0 0 65px 0;
+              
+              }
+
+          
+
+            /*contact-area-end*/ 
+
+
+
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
